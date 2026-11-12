@@ -16,5 +16,4 @@ Personnages:
 Luke
 Leia
 Han
-Obi-Wan
-Vader
+
